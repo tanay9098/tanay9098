@@ -1,26 +1,28 @@
 # Hi 👋, I'm Tanay  
 
-💡 I help businesses make smarter decisions by turning raw data 📊 into meaningful insights.  
-I’m passionate about **Data Analytics, Visualization, and Problem Solving**.  
+💡 A passionate web developer and a data analyst.  
 
 ---
 
 ## 🔧 Skills & Tools  
-- ⚡ **Power BI** – Interactive dashboards & data storytelling  
 - 🐍 **Python** – Pandas, NumPy, Matplotlib, Seaborn  
-- 🗄️ **SQL** – Data cleaning, queries, transformations  
+- 🗄️ **SQL** – Data Query language for Relational Database  
 - 📑 **Excel** – Analysis & reports  
-- 📊 **Tableau** – Visual insights & business dashboards  
+- 🧑‍💻 **JavaScript** - programming language for web
+- 💻 **Git** - Version control
+- 🤓 **ReactJS** - Frontend Library
+- ⚡ **ExpressJS** - NodeJS framework
+- 💡 **MongoDB** - NoSQL Database for schemaless documents  
 
 ---
 
 ## 📂 Featured Projects  
 
-🔹 **[Retail Store Sales Analysis](https://github.com/tanay9098/sales-visualization-dashboard-powerbi)**  
-Analyzed 540K+ transactions → Identified revenue trends, customer segments & seasonal insights.  
+🔹 **[DINDER](https://github.com/tanay9098/DINDER)**  
+Netlify x Hashnode -2022 Hackathon project along with my friend [Rishu Patel](https://github.com/iamrishupatel)  
 
-🔹 **[Employee Attrition Analysis](https://github.com/tanay9098/HR-DATA-POWERBI)**  
-Built interactive Power BI dashboard to uncover key factors behind attrition & suggested retention strategies.  
+🔹 **[Bouncy Brain](https://github.com/tanay9098/Bouncy-Brain)**  
+Productivity application for students with ADHD.  
 
 🔹 **[Amazon Sales Data Analysis](https://github.com/tanay9098/AMAZON_SALES_REPORT)**  
 Used Python (Pandas, Seaborn, Matplotlib) to analyze 128K+ orders → customer behavior & sales trends.  
@@ -37,5 +39,5 @@ SQL-based insights into pricing, discounts & inventory metrics.
 
 ---
 
-✨ *Always curious, always learning. Let’s turn data into decisions together!*  
+
 
