@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tanay  
 
-💡 A passionate web developer and a data analyst.  
+💡 A fullstack developer and a data analyst.  
 
 ---
 
