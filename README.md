@@ -12,7 +12,8 @@
 - 💻 **Git** - Version control
 - 🤓 **ReactJS** - Frontend Library
 - ⚡ **ExpressJS** - NodeJS framework
-- 💡 **MongoDB** - NoSQL Database for schemaless documents  
+- 💡 **MongoDB** - NoSQL Database for schemaless documents
+- 🔥 **Firebase** - BAAS(backend-as-a-service)
 
 ---
 
