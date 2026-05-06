@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tanay  
 
-💡 A fullstack developer and a data analyst.  
+💡 A fullstack developer from Lucknow, India.  
 
 ---
 
