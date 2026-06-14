@@ -40,12 +40,20 @@ A Pokemon based NFT trading cum battle ground platform.
 
 
 
-## 📫 Let’s Connect  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanay9098&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay9098&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanay9098&theme=dark)
+
+---
+
+## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanay-dwivedi-552859184/)  
 - 📧 Email: **tanaydwivedi678@gmail.com**  
 - 💻 [GitHub](https://github.com/tanay9098)  
 
 ---
-
-
 
