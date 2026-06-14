@@ -2,6 +2,14 @@
 
 💡 A fullstack developer from Lucknow, India.  
 
+Balancing my coffee ☕ addiction with coding 🤖
+
+Open for full-time remote roles 🧑‍💻
+
+Available for freelance projects 🏗️
+
+
+
 ---
 
 ## 🔧 Skills & Tools  
@@ -12,7 +20,6 @@
 - 🤓 **ReactJS** - Frontend Library
 - ⚡ **ExpressJS** - NodeJS framework
 - 💡 **MongoDB** - NoSQL Database for schemaless documents
-- 🔥 **Firebase** - BAAS(backend-as-a-service)
 
 ---
 
