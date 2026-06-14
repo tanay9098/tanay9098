@@ -20,6 +20,9 @@ Available for freelance projects 🏗️
 - 🤓 **ReactJS** - Frontend Library
 - ⚡ **ExpressJS** - NodeJS framework
 - 💡 **MongoDB** - NoSQL Database for schemaless documents
+- 🔗 **Solidity** - Smart Contract development language
+- ⛏️ **Hardhat** - Ethereum development & testing framework  
+- 📦 **IPFS / Pinata** - Decentralized file & metadata storage
 
 ---
 
