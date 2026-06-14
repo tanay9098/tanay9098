@@ -31,6 +31,10 @@ A wish making application inspired from Kdrama, "If wishes could kill".
 🔹 **[Bouncy Brain](https://github.com/tanay9098/Bouncy-Brain)**  
 Productivity application for people with ADHD.  
 
+🔹 **[PokeDex](https://github.com/tanay9098/PokeDex)**  
+A Pokemon based NFT trading cum battle ground platform.
+
+
 
 
 ## 📫 Let’s Connect  
